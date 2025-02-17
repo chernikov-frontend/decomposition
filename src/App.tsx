@@ -12,9 +12,10 @@ import "./App.css";
 const App = () => {
   return (
     <div className="container">
+
+      <NewsList />
       <Header />
       <Search />
-      <NewsList />
       <StockRates />
       <Banner />
 
