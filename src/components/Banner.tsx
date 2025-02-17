@@ -5,7 +5,7 @@
 const Banner = () => {
     return (
         <div className="banner">
-            <img src="/webbanner.png" alt="Реклама" />
+            <img src="/decomposition/webbanner.png" alt="Реклама" />
         </div>
     );
 };
