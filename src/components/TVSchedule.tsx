@@ -1,7 +1,6 @@
 /**
  * TVSchedule – телепрограмма на сегодня.
  */
-import React from "react";
 
 const TVSchedule = () => {
     return (

@@ -1,7 +1,6 @@
 /**
  * Banner – рекламный баннер под поисковой строкой.
  */
-import React from "react";
 
 const Banner = () => {
     return (

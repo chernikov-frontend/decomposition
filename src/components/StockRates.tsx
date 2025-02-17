@@ -1,7 +1,6 @@
 /**
  * StockRates – курсы валют и нефти.
  */
-import React from "react";
 
 const StockRates = () => {
     return (

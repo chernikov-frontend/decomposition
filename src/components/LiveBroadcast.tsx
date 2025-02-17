@@ -1,7 +1,6 @@
 /**
  * LiveBroadcast – список прямых эфиров.
  */
-import React from "react";
 
 const LiveBroadcast = () => {
     return (

@@ -1,7 +1,6 @@
 /**
  * Weather – информация о погоде.
  */
-import React from "react";
 
 const Weather = () => {
     return (

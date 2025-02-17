@@ -1,7 +1,6 @@
 /**
  * Search – компонент строки поиска.
  */
-import React from "react";
 
 const Search = () => {
     return (

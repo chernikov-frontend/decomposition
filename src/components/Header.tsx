@@ -1,7 +1,6 @@
 /**
  * Header – верхняя часть сайта с логотипом и меню.
  */
-import React from "react";
 
 const Header = () => {
     return (

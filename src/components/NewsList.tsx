@@ -1,7 +1,6 @@
 /**
  * NewsList – список новостей.
  */
-import React from "react";
 
 const NewsList = () => {
     return (
